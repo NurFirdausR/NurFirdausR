@@ -23,7 +23,15 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+
+<h3 align="left">another tech stack behind the app:</h3>
+
+![MYSQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurfirdausr&show_icons=true&locale=en&layout=compact" alt="nurfirdausr" />
