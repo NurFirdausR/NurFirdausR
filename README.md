@@ -25,6 +25,7 @@
 
 
 <h3 align="left">Backend:</h3>
+
 ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=Php)
 ![GOLANG](https://img.shields.io/badge/-golang-black?style=flat-square&logo=Golang)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
