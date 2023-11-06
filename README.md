@@ -14,17 +14,22 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=Php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<h3 align="left">Frontend:</h3>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![saas](https://img.shields.io/badge/-saas-black?style=flat-square&logo=saas)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![ReactJs](https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=reactjs)
+
+
+<h3 align="left">Backend:</h3>
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=Php)
+![GOLANG](https://img.shields.io/badge/-golang-black?style=flat-square&logo=Golang)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+
+
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfirdausr&show_icons=true&locale=en&layout=compact" alt="nurfirdausr" /></p>
 
