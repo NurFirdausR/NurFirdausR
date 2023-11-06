@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nur Firdaus Ramandani</h1>
-<h3 align="center">Fullstack Developer | DevOps Enthusiast</h3>
+<h3 align="center">Fullstack Developer | DevOps Enthusiast | Investment Retail</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nurfirdausr&label=Profile%20views&color=0e75b6&style=flat" alt="nurfirdausr" /> 
