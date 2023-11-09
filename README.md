@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nur Firdaus Ramandani</h1>
+<h1 align="center">Hi there 👋, I'm Nur Firdaus Ramandani, 19 yrs old</h1>
 <h3 align="center">Fullstack Developer | DevOps Enthusiast | Investment Retail</h3>
 
 <p align="left"> 
